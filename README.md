@@ -1,6 +1,11 @@
-# Welcome to my GitHub profile!👋
+# Hey! My name is Samson. 👋
 
 ### I am a first year student studying a BSc. in Computer Science at DCU!
+<br>
+<p>I have a massive passion for programming when it comes to solving problems using code and expanding my knowledge of approaching solutions. At the moment, I am doing this with Python to solve University Labsheets, Kattis and Leetcode.</p>
+<br>
+<p>As I continue to learn other languages, I will solve the same and more problems using other languages! 😀</p>
+<br>
 
 # Here are some things to know about me:
 
@@ -12,8 +17,13 @@
 ### As I progress through University, I will be learning more languages like:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
-          
-          
+<br>
+
+# My Github Statistics:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=type0-1&show_icons=true&locale=en" alt="type0-1" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=type0-1&" alt="type0-1" /></p>
+
           
           
 
