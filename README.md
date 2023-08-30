@@ -2,8 +2,6 @@
 
 ### I am a student studying a BSc. in Computer Science at DCU!
 
-# Here are some things to know about me:
-
 ### Current Languages I have some experience with:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px"/> 
@@ -16,10 +14,10 @@
 <br>
 
 # My Github Statistics:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=type0-1&show_icons=true&locale=en" alt="type0-1" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=type0-1&" alt="type0-1" /></p>
 
+# Samson Oloruntola
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=type0-1)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=type0-1)](https://github.com/anuraghazra/github-readme-stats)
           
           
 
