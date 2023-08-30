@@ -1,9 +1,6 @@
 # Hey! My name is Samson. 👋
 
 ### I am a student studying a BSc. in Computer Science at DCU!
-<br>
-<p>I have a massive passion for programming when it comes to solving problems using code and expanding my knowledge and improve my approach on problem-solving. At the moment, I am doing this with Python and C to solve University Labsheets and website problems like Codewars and Leetcode!</p>
-<br>
 
 # Here are some things to know about me:
 
