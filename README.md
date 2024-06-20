@@ -1,5 +1,6 @@
 # 🎓 CS @ DCU
 ## 💻 Languages and Technologies
+
 I have experience with the following languages and technologies:
 
 <div align="center">
@@ -18,7 +19,9 @@ I have experience with the following languages and technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50px" width="50px"/>
 </div>
+
 ## 📊 GitHub Statistics
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=type0-1&layout=compact" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=type0-1&show_icons=true&theme=radical" alt="GitHub Stats" />
