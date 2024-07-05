@@ -19,9 +19,9 @@ I have experience with the following languages and technologies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50px" width="50px"/>
   <img src="https://vitejs.dev/logo.svg" height="50px" width="50px"/>
   <img src="https://vitest.dev/logo.svg" height="50px" width="50px"/>
-  <img src="https://chai.js.org/img/chai-logo.png" height="50px" width="50px"/>
-  <img src="https://greensock.com/uploads/monthly_2019_10/GSAP_Logo.png" height="50px" width="50px"/>
 </div>
+
+This also includes Chai and GSAP.
 
 
 ## 📊 GitHub Statistics
