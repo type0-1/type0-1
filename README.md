@@ -14,4 +14,4 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=type0-1&show_icons=true&locale=en" alt="type0-1" width="400" height="400" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=type0-1&" alt="type0-1" width="400" height="400"/></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=type0-1&" alt="type0-1" width="400" height="400"/></p>
