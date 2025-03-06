@@ -27,5 +27,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=type0-1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=type0-1&theme=radical" alt="GitHub Streak" width="48%" />
 </p>
-
-🚀 Always exploring new technologies & building cool projects!
